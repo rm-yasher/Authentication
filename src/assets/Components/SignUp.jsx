@@ -73,6 +73,7 @@ const SignUp = () => {
       </div>
       <Image sign='Sign Up' />
       
+      
     </div>
   );
 };
